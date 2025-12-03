@@ -1,4 +1,4 @@
-package mushtaq.projekt.ui.theme
+package mushtaq.projekt.gui.theme
 
 import androidx.compose.ui.graphics.Color
 

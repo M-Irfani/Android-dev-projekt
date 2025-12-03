@@ -1,4 +1,4 @@
-package mushtaq.projekt.ui.theme
+package mushtaq.projekt.gui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
