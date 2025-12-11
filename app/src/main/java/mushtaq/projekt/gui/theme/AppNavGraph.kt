@@ -11,7 +11,7 @@ fun AppNavGraph(navController: NavHostController){
     //define "home" as starting screen
     NavHost(navController = navController, startDestination = "home"){
         composable("home"){
-            HomeScreen(navController)
+            HomeScreen(navController,)
         }
         //
     }
